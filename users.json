@@ -1,0 +1,145 @@
+[
+    {
+        "name": "אלישבע",
+        "password": "11111",
+        "tz": "111111111",
+        "phone": "0533111111",
+        "numGame": 5,
+        "numWin": 3,
+        "words": [
+            "israel",
+            "smile",
+            "tarnegol",
+            "buy"
+        ]
+    },
+    {
+        "name": "ח",
+        "password": "ל",
+        "tz": "582",
+        "phone": "852",
+        "numGame": 0,
+        "numWin": 0,
+        "words": []
+    },
+    {
+        "name": "נחמי",
+        "password": "1111",
+        "tz": "11111",
+        "phone": "5252525",
+        "numGame": 0,
+        "numWin": 0,
+        "words": []
+    },
+    {
+        "name": "hjk",
+        "password": "85208",
+        "tz": "852085202",
+        "phone": "0523232323",
+        "numGame": 0,
+        "numWin": 0,
+        "words": [
+            "tovi"
+        ]
+    },
+    {
+        "name": "Ginendel",
+        "password": "88888888",
+        "tz": "219175981",
+        "phone": "0557455555",
+        "numGame": 1,
+        "numWin": 0,
+        "words": [
+            "tarnegol"
+        ]
+    },
+    {
+        "name": "fghjk",
+        "password": "74107410",
+        "tz": "741074101",
+        "phone": "0527417410",
+        "numGame": 1,
+        "numWin": 1,
+        "words": [
+            "toda"
+        ]
+    },
+    {
+        "name": "חני",
+        "password": "85208520",
+        "tz": "852085202",
+        "phone": "0523232323",
+        "numGame": 0,
+        "numWin": 0,
+        "words": [
+            "hello"
+        ]
+    },
+    {
+        "name": "יסמין",
+        "password": "123שש123",
+        "tz": "325920999",
+        "phone": "0527601817",
+        "numGame": 1,
+        "numWin": 1,
+        "words": [
+            "tovi"
+        ]
+    },
+    {
+        "name": "כעיח",
+        "password": "12312312",
+        "tz": "852085202",
+        "phone": "0523232323",
+        "numGame": 1,
+        "numWin": 1,
+        "words": [
+            "smile"
+        ]
+    },
+    {
+        "name": "גכעיח",
+        "password": "852085208520",
+        "tz": "455454545",
+        "phone": "0523232323",
+        "numGame": 3,
+        "numWin": 1,
+        "words": [
+            "buy",
+            "hello",
+            "smile",
+            "tovi"
+        ]
+    },
+    {
+        "name": "ראטון",
+        "password": "52085208520",
+        "tz": "852085208",
+        "phone": "0523232323",
+        "numGame": 0,
+        "numWin": 0,
+        "words": []
+    },
+    {
+        "name": "כעיחל",
+        "password": "12345678",
+        "tz": "852085202",
+        "phone": "0523232323",
+        "numGame": 0,
+        "numWin": 0,
+        "words": [
+            "nechami"
+        ]
+    },
+    {
+        "name": "sdfr",
+        "password": "k.jghfgkjgf",
+        "tz": "852085208",
+        "phone": "0523232323",
+        "numGame": 1,
+        "numWin": 0,
+        "words": [
+            "israel"
+        ]
+    }
+]
